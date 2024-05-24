@@ -1,8 +1,6 @@
-# React + Vite
+# Site web Iphone 15 apple
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ce projet, développé dans le cadre d'un exercice, est un site web réalisé avec React, Vite, et Node.js. 
+Il est déployé sur Vercel pour sa facilité de déploiement et sa prise en charge native des applications React, offrant ainsi une expérience de déploiement rapide et fluide.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [](https://www.youtube.com/watch?v=kRQbRAJ4-Fs&ab_channel=JavaScriptMastery) u
