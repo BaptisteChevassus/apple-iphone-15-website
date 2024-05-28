@@ -5,6 +5,8 @@ Il est déployé sur Vercel pour sa facilité de déploiement et sa prise en cha
 
 https://www.youtube.com/watch?v=kRQbRAJ4-Fs&ab_channel=JavaScriptMastery
 
-
+Version desktop complète.
 ![Exercice Apple Iphone React vite et javascript desktop](https://github.com/BaptisteChevassus/apple-iphone-15-website/assets/170626044/2fd20214-318d-4d4d-99df-ce31be0bc7d4)
+
+Design Responsive et adaptatif pour mobiles.
 ![Exercice Apple Iphone React vite et javascript mobile](https://github.com/BaptisteChevassus/apple-iphone-15-website/assets/170626044/d745b9cf-56d9-48ab-bb6e-b5723ef62d0d)
